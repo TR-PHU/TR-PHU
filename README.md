@@ -6,7 +6,7 @@
 
 - 🔭 I’m a student Information System at **[University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)**
 
-- 🌱 I’m currently learning **Frontend, Backend, Mobile, DevOps**
+- 🌱 I’m currently learning **Frontend, Backend**
 
 ## 🚀 Languages and Tools:
 
