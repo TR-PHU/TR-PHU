@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WebDev Studios](https://www.facebook.com/webdevstudios.org)
 
-- 🌱 I’m currently learning **Java, Typescript, Golang**
+- 🌱 I’m currently learning **Typescript, Golang**
 
 - 💬 Ask me about **NodeJS**
 
