@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Tran Thanh Phu</h1>
+<h1 align="center">Hi👋, I'm Phu</h1>
 <h3 align="center">I'm a student at <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology" alt="university">UIT</a></h3>
 
 <br>
